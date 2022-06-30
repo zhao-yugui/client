@@ -1,0 +1,9 @@
+D:\kadai\Csharp5yxBrowser\bin\v5yxBrowser.exe.config
+D:\kadai\Csharp5yxBrowser\bin\v5yxBrowser.exe
+D:\kadai\Csharp5yxBrowser\bin\v5yxBrowser.pdb
+D:\kadai\Csharp5yxBrowser\obj\x86\Release\v5yxBrowser.MainForm.resources
+D:\kadai\Csharp5yxBrowser\obj\x86\Release\v5yxBrowser.Properties.Resources.resources
+D:\kadai\Csharp5yxBrowser\obj\x86\Release\v5yxBrowser.csproj.GenerateResource.Cache
+D:\kadai\Csharp5yxBrowser\obj\x86\Release\v5yxBrowser.exe
+D:\kadai\Csharp5yxBrowser\obj\x86\Release\v5yxBrowser.pdb
+D:\kadai\Csharp5yxBrowser\obj\x86\Release\v5yxBrowser.csprojResolveAssemblyReference.cache

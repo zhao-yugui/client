@@ -1,0 +1,11 @@
+D:\kadai\Csharp5yxBrowser\bin\sengokugifu.exe.config
+D:\kadai\Csharp5yxBrowser\bin\sengokugifu.exe
+D:\kadai\Csharp5yxBrowser\bin\sengokugifu.pdb
+D:\kadai\Csharp5yxBrowser\obj\x64\Debug\sengokugifu.csprojAssemblyReference.cache
+D:\kadai\Csharp5yxBrowser\obj\x64\Debug\sengokugifu.BrowserForm.resources
+D:\kadai\Csharp5yxBrowser\obj\x64\Debug\sengokugifu.Properties.Resources.resources
+D:\kadai\Csharp5yxBrowser\obj\x64\Debug\sengokugifu.csproj.GenerateResource.cache
+D:\kadai\Csharp5yxBrowser\obj\x64\Debug\sengokugifu.csproj.CoreCompileInputs.cache
+D:\kadai\Csharp5yxBrowser\obj\x64\Debug\sengokugifu.csproj.CopyComplete
+D:\kadai\Csharp5yxBrowser\obj\x64\Debug\sengokugifu.exe
+D:\kadai\Csharp5yxBrowser\obj\x64\Debug\sengokugifu.pdb

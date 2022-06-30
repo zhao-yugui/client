@@ -1,0 +1,8 @@
+[0915/193633:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0915/193638:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0915/222525:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0915/222532:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0915/222537:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0916/161135:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0918/131720:ERROR:ssl_client_socket_openssl.cc(1132)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0918/131810:ERROR:ipc_channel_win.cc(217)] pipe error: 109
